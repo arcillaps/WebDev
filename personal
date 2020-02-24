@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Edicationa Background</title>
+  </head>
+
+  <body>
+    <h3>Educational Backgroud</h3>
+    <table cellspacing = "30">
+<h4>Elementary</h4>
+      <tr >
+        <td>Pedro Gueverra Elementary School</td>
+        <td>2006-2012</td>
+        <td>
+302 San Fernando St, San Nicolas, Manila, 1010 Metro Manila</td>
+  </tr>
+    </table>
+    <table cellspacing = "30">
+      <h4>Secondary</h4>
+      <tr>
+        <td>Jose Abad Santos HighSchool</td>
+        <td>2012-2016</td>
+        <td>Search Results
+      Numancia St, San Nicolas, Manila, Metro Manila</td>
+      </tr>
+    </table>
+    <table cellspacing = "30">
+        <h4>Senior HighSchool</h4>
+      <tr>
+        <td>University of the East</td>
+        <td>2016-2018</td>
+        <td>2219 Recto Ave, Sampaloc, Manila, 1008 Metro Manila</td>
+      </tr>
+    </table>
+    <table cellspacing = "30">
+        <h4>Teriary</h4>
+      <tr>
+        <td>National University</td>
+        <td>2018...</td>
+        <td>551 M.F. Jhocson St, Sampaloc, Manila, 1008 Metro Manila</td>
+      </tr>
+    </table>
+
+
+
+
+
+
+
+
+  </body>
+</html>
